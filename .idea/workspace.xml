@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01f116b8-03c6-4205-8674-aec06cf0b418" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.test" beforeDir="false" afterPath="$PROJECT_DIR$/.env.test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ClickACollectAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ClickACollectAPI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +144,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608285810897</updated>
-      <workItem from="1608285812537" duration="10643000" />
+      <workItem from="1608285812537" duration="11386000" />
     </task>
     <task id="LOCAL-00001" summary="build : Ajout des fichiers CHANGELOG.md, README.md, CONTRIBUTING.md, LICENSE et les premiers entités">
       <created>1608292280882</created>
@@ -162,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608292280882</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="build : ajout de l'integration continue">
+      <created>1608299841107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608299841107</updated>
+    </task>
+    <task id="LOCAL-00003" summary="build : ajout de l'integration continue">
+      <created>1608299959257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608299959257</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +186,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="build : Ajout des fichiers CHANGELOG.md, README.md, CONTRIBUTING.md, LICENSE et les premiers entités" />
-    <option name="LAST_COMMIT_MESSAGE" value="build : Ajout des fichiers CHANGELOG.md, README.md, CONTRIBUTING.md, LICENSE et les premiers entités" />
+    <MESSAGE value="build : ajout de l'integration continue" />
+    <option name="LAST_COMMIT_MESSAGE" value="build : ajout de l'integration continue" />
   </component>
 </project>
